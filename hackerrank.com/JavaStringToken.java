@@ -43,7 +43,6 @@ public class JavaStringToken {
         }
         System.out.println(strings.size());
         for (String sub: strings) {
-            //if (sub.equals(""))
                 System.out.println(sub);
         }
         scan.close();
