@@ -66,7 +66,6 @@ public class JavaSubarray {
                     ammount++;
                 }
             }
-
         }
 
         System.out.println(ammount);
