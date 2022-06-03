@@ -58,7 +58,7 @@ class FoodFactory {
 
 }//End of factory class
 
-public class Solution {
+public class JavaFactoryPattern {
 
     public static void main(String args[]){
         Do_Not_Terminate.forbidExit();
